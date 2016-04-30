@@ -1,3 +1,5 @@
 /.vs/BrcCsvLib/v14/*.suo
 /BrcCsvLib/.vs/BrcCsvLib/v14/*.suo
 /BrcCsvLib/obj/Debug
+bin
+obj
